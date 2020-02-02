@@ -20,6 +20,7 @@ public class Main {
         phase2Item = simulation.loadItems(phase2);
 
         //zmiana
+        //zmiana1
 
         System.out.println("----------------------------------------------------------------------");
         System.out.println("----------------------SPACE CHALLENGE SIMULATION----------------------");
